@@ -1,4 +1,26 @@
-Face Recoginition And Attendence System - Microsoft Engage Project 2022
-Project made using Python and OpenCv
-It captures the image on webcam and match it with database and stores the attendence in excel sheet
-You need Pycharm install in your Windows to smoothly run the project on your system
+<h1 align="center">Attendence System Using Face Recoginition</h1>
+
+## Introduction:
+Face Recoginition is done through image captured by webcam and then matching that image with dataset and attendence gets stored in csv file.
+
+## Demo Video Link:
+  <a href="https://drive.google.com/file/d/1LNLUya9_zR0SBWZkq4TeYzHQDXE818Gq/view?usp=share_link">Demo link</a> for video presentation
+  
+## Presentation Link:
+  <a href="https://docs.google.com/presentation/d/1LUm4zLiitSoBv5EA6Zqa0YPKT4gx1sMx/edit?usp=share_link&ouid=101591177730358115730&rtpof=true&sd=true"> Link </a> for slide presenatation 
+
+## Table Of Contents
+- Image capture by webcam
+- Face Recoginition in captured image
+- Marking attendence in csv file
+
+## Technology Stack:
+  1) Python
+  2) OpenCV
+
+## Contributors:
+* [Nupur Goyal](https://github.com/nupur102002)
+
+
+### Made at:
+Microsoft Engage'2022
